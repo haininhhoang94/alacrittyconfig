@@ -1,4 +1,3 @@
-
 # Font configuration
 font:
   # Normal (roman) font face
@@ -11,12 +10,12 @@ font:
     style: Bold
 
   italic:
-    family: FiraCode Nerd Font
+    family: Hack Nerd Font
     style: Italic
 
   #bold_italic:
-    #family: monospace
-    #style: Bold Italic
+  #family: monospace
+  #style: Bold Italic
 
   size: 14.0
 
