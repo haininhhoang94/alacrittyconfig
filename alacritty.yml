@@ -6,19 +6,19 @@
 # loaded earlier with those loaded later in the chain. The file itself will
 # always be loaded last.
 import:
-  - ~/.config/alacritty/windows.yml
-  - ~/.config/alacritty/scrolling.yml
-  - ~/.config/alacritty/fonts.yml
-  - ~/.config/alacritty/bell.yml
-  - ~/.config/alacritty/selection.yml
-  - ~/.config/alacritty/cursor.yml
-  - ~/.config/alacritty/mouse.yml
-  - ~/.config/alacritty/keybinding.yml
-  - ~/.config/alacritty/debug.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/windows.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/scrolling.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/fonts.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/bell.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/selection.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/cursor.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/mouse.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/keybinding.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/debug.yml
   #
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/onedark.yml
-  - ~/.config/alacritty/themes/onedark_alter.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/themes/onedark_alter.yml
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/default.yml
