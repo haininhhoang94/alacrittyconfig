@@ -15,6 +15,7 @@ import:
   - C:/Users/hainh/AppData/Roaming/alacritty/mouse.yml
   - C:/Users/hainh/AppData/Roaming/alacritty/keybinding.yml
   - C:/Users/hainh/AppData/Roaming/alacritty/debug.yml
+  - C:/Users/hainh/AppData/Roaming/alacritty/shell.yml
   #
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/onedark.yml
@@ -31,7 +32,7 @@ import:
   #- ~/.config/alacritty/themes/default.yml
 
 env:
-  TERM: xterm-256color
+  TERM: xterm-256color mc
 
 # Live config reload (changes require restart)
 live_config_reload: true

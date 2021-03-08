@@ -9,9 +9,7 @@
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
 shell:
-  program: /bin/zsh
-  args:
-    - --login
+  program: "C:\\Windows\\system32\\wsl.exe"
 
 # Startup directory
 #
