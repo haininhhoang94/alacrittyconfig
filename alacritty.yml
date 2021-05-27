@@ -15,6 +15,7 @@ import:
   - ~/.config/alacritty/mouse.yml
   - ~/.config/alacritty/keybinding.yml
   - ~/.config/alacritty/debug.yml
+  - ~/.config/alacritty/shell.yml
   #
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/onedark.yml
