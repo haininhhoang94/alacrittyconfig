@@ -1,6 +1,7 @@
 cursor:
   # Cursor style
   #
+  cursor: "#1abc9c"
   # Values for `style`:
   #   - ▇ Block
   #   - _ Underline

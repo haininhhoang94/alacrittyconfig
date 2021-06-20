@@ -19,10 +19,10 @@ import:
   #
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/onedark.yml
-  - ~/.config/alacritty/themes/onedark_alter.yml
-  #- ~/.config/alacritty/themes/default.yml
-  #- ~/.config/alacritty/themes/default.yml
-  #- ~/.config/alacritty/themes/default.yml
+  # - ~/.config/alacritty/themes/onedark_alter.yml
+  # - ~/.config/alacritty/themes/papercolor_light.yaml
+  - ~/.config/alacritty/themes/pencil_light.yaml
+  # - ~/.config/alacritty/themes/one_dark.yml
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/default.yml
   #- ~/.config/alacritty/themes/default.yml
@@ -39,4 +39,3 @@ live_config_reload: true
 
 # Send ESC (\x1b) before characters when alt is pressed.
 alt_send_esc: true
-
